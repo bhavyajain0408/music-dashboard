@@ -36,4 +36,4 @@ Using SQL, the project helps analyze customer behavior, playlist trends, popular
 . PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema]
+![MusicDatabaseSchema]https://github.com/bhavyajain0408/music-dashboard/blob/main/MusicDatabaseSchema.png
